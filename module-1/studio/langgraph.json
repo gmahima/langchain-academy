@@ -6,7 +6,8 @@
     "agent": "./agent.py:graph",
     "simple_graph_me": "./simple-graph-me.py:graph",
     "chain_simple": "./chain-simple.py:graph",
-    "chain_llm": "./chain-llm.py:graph"
+    "chain_llm": "./chain-llm.py:graph",
+    "router_by_me": "./router-by-me.py:graph"
   },
   "env": "./.env",
   "python_version": "3.11",
