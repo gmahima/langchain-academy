@@ -4,7 +4,9 @@
     "simple_graph": "./simple.py:graph",
     "router": "./router.py:graph",
     "agent": "./agent.py:graph",
-    "simple_graph_me": "./simple-graph-me.py:graph"
+    "simple_graph_me": "./simple-graph-me.py:graph",
+    "chain_simple": "./chain-simple.py:graph",
+    "chain_llm": "./chain-llm.py:graph"
   },
   "env": "./.env",
   "python_version": "3.11",
